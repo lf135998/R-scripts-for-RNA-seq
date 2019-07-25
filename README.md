@@ -1,2 +1,3 @@
 # R-scripts-for-RNA-seq
-## a group of R script for analysis of RNA-seq data.
+## A group of R scripts for analysis of RNA-seq data.
+## Differentially expressed analysis and functional enrichment.
